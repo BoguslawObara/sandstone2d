@@ -1,7 +1,7 @@
 # sandstone2d
 sandstone microcracks segmentation<br/>
 
-| INPUT  | OUTPUT |
+| INPUT | OUTPUT |
 | ------------- | ------------- |
 | <img src="https://github.com/BoguslawObara/sandstone2d/blob/master/im/sandstone.png" width="250">  | <img src="https://github.com/BoguslawObara/sandstone2d/blob/master/im/sandstone_c.png" width="250"> |
 
