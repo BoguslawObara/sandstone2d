@@ -1,5 +1,5 @@
 # sandstone2d
-sandstone microcracks segmentation<br/>
+2d sandstone microcracks segmentation<br/>
 
 | INPUT | OUTPUT |
 | ------------- | ------------- |
